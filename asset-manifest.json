@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.40528d21.css",
-    "main.js": "/react-gh-pages/static/js/main.3cd32f24.js",
-    "static/media/num1.png": "/react-gh-pages/static/media/num1.44996cd1830b45aede76.png",
-    "static/media/num8.png": "/react-gh-pages/static/media/num8.288821d095a11868d04b.png",
-    "static/media/num6.png": "/react-gh-pages/static/media/num6.5cccf058adb944ff3332.png",
-    "static/media/num3.png": "/react-gh-pages/static/media/num3.1316cb0ee290f70e18a9.png",
-    "static/media/num5.png": "/react-gh-pages/static/media/num5.9ccc94b5abfed2fe4bd8.png",
-    "static/media/num2.png": "/react-gh-pages/static/media/num2.ee39b57f88b0decc8053.png",
-    "static/media/num7.png": "/react-gh-pages/static/media/num7.397ce0529b09d3934917.png",
-    "static/media/num4.png": "/react-gh-pages/static/media/num4.8aa89db720f87c119acf.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.40528d21.css.map": "/react-gh-pages/static/css/main.40528d21.css.map",
-    "main.3cd32f24.js.map": "/react-gh-pages/static/js/main.3cd32f24.js.map"
+    "main.css": "/numPuzz/static/css/main.40528d21.css",
+    "main.js": "/numPuzz/static/js/main.aacbc584.js",
+    "static/media/num1.png": "/numPuzz/static/media/num1.44996cd1830b45aede76.png",
+    "static/media/num8.png": "/numPuzz/static/media/num8.288821d095a11868d04b.png",
+    "static/media/num6.png": "/numPuzz/static/media/num6.5cccf058adb944ff3332.png",
+    "static/media/num3.png": "/numPuzz/static/media/num3.1316cb0ee290f70e18a9.png",
+    "static/media/num5.png": "/numPuzz/static/media/num5.9ccc94b5abfed2fe4bd8.png",
+    "static/media/num2.png": "/numPuzz/static/media/num2.ee39b57f88b0decc8053.png",
+    "static/media/num7.png": "/numPuzz/static/media/num7.397ce0529b09d3934917.png",
+    "static/media/num4.png": "/numPuzz/static/media/num4.8aa89db720f87c119acf.png",
+    "index.html": "/numPuzz/index.html",
+    "main.40528d21.css.map": "/numPuzz/static/css/main.40528d21.css.map",
+    "main.aacbc584.js.map": "/numPuzz/static/js/main.aacbc584.js.map"
   },
   "entrypoints": [
     "static/css/main.40528d21.css",
-    "static/js/main.3cd32f24.js"
+    "static/js/main.aacbc584.js"
   ]
 }
